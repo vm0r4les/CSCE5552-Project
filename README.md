@@ -1,1 +1,3 @@
 # CSCE5552-Project
+# HTB Challenge
+# A group of dedicated researchers, driven by their study of vulnerabilities in signing servers, convened one evening with a shared goal: to design a modern, more robust method for signing tokens used in authentication processes. After extensive development and testing, they are confident that their solution is ready for deployment. However, before unveiling their innovation to the world, they seek a comprehensive security audit to ensure it withstands potential threats. They have granted you access to their server to evaluate its security rigor. Could this new method of signing messages finally address the weaknesses exploited in previous attacks, or will it reveal new challenges in the evolving landscape of cybersecurity?
